@@ -1,1 +1,3 @@
-## Replace this with your name, and include a header.
+## Claudine Grant
+### Learning Markdown on Github
+#### 5/26/19
